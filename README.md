@@ -2,6 +2,8 @@
 
 Dashboard interactivo para explorar la evolución de la pandemia COVID-19 a nivel mundial, construido con **Streamlit** y **Plotly**.
 
+**🚀 [Ver Dashboard en Vivo](https://02-covid-dashboard-pg2nkq9aacuzr5bsmmx4zp.streamlit.app/)**
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-5.15%2B-3F4F75?logo=plotly)
